@@ -1,5 +1,5 @@
 {
-    "name": "nodejs-lib-template",
+    "name": "next-env-vars",
     "_": "[bump]",
     "version": "0.0.1",
     "description": "",
@@ -28,5 +28,8 @@
         "mocha": "^6.1.4",
         "ts-node": "^8.2.0",
         "typescript": "^3.7.5"
+    },
+    "dependencies": {
+        "dotenv": "^8.2.0"
     }
 }
