@@ -1,7 +1,7 @@
 ## Install
 
 ```
-npm i next-with-env
+npm i next-env-vars
 ```
 
 ## Usage
